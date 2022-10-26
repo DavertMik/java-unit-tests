@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.054 s <<< FAILURE! - in unit.tests.CalculatorTest
+unit.tests.CalculatorTest.sumTest  Time elapsed: 0.011 s
+unit.tests.CalculatorTest.divisionTest  Time elapsed: 0.004 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5.0> but was: <5.5>
+	at unit.tests.CalculatorTest.divisionTest(CalculatorTest.java:44)
+
+unit.tests.CalculatorTest.multiplicationTest  Time elapsed: 0.001 s
+unit.tests.CalculatorTest.divisionTestBoyZer  Time elapsed: 0.002 s
+unit.tests.CalculatorTest.subtractTest  Time elapsed: 0.001 s
+unit.tests.CalculatorTest.sumTestHamcrest  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: <4.0>
+     but: was <6.0>
+	at unit.tests.CalculatorTest.sumTestHamcrest(CalculatorTest.java:27)
+

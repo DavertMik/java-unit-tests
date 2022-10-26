@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.CalculatorPBTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 1.646 s - in unit.tests.CalculatorPBTest
+unit.tests.CalculatorPBTest skipped
+unit.tests.CalculatorPBTest.sumOperatorMustSumWithSeed(double, double)  Time elapsed: 0.131 s
+unit.tests.CalculatorPBTest.sumOperatorMustSum(double, double)  Time elapsed: 0.394 s
+unit.tests.CalculatorPBTest skipped
+unit.tests.CalculatorPBTest.divisionByItselfIsOne(double)  Time elapsed: 0.199 s
+unit.tests.CalculatorPBTest.sumOperatorMustSumWithReport(double, double)  Time elapsed: 0.254 s
+unit.tests.CalculatorPBTest.sumIsCommutative(double, double)  Time elapsed: 0.242 s
+unit.tests.CalculatorPBTest.sumIsNeutral(double, double)  Time elapsed: 0.244 s
+unit.tests.CalculatorPBTest.divisionByOneIsTheSame(double)  Time elapsed: 0.167 s
+unit.tests.CalculatorPBTest skipped

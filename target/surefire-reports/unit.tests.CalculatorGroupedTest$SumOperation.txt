@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.CalculatorGroupedTest$SumOperation
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in unit.tests.CalculatorGroupedTest$SumOperation
+unit.tests.CalculatorGroupedTest$SumOperation.negativeNumbersCanBeSummed  Time elapsed: 0.001 s

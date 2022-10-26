@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.PayrollPBTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.69 s - in unit.tests.PayrollPBTest
+unit.tests.PayrollPBTest.employeeCanPay100PercentSalaryInTaxes(Double)  Time elapsed: 0.741 s
+unit.tests.PayrollPBTest.everyPayrollIsPositive(Double,Double)  Time elapsed: 0.646 s
+unit.tests.PayrollPBTest.zeroPaymentIdAlwaysZeroAfterTaxes(Double)  Time elapsed: 0.302 s

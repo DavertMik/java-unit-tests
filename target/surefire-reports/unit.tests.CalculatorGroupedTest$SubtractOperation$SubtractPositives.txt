@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.CalculatorGroupedTest$SubtractOperation$SubtractPositives
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in unit.tests.CalculatorGroupedTest$SubtractOperation$SubtractPositives
+unit.tests.CalculatorGroupedTest$SubtractOperation.negativeNumbersCanBeSubtracted  Time elapsed: 0.039 s
+unit.tests.CalculatorGroupedTest$SubtractOperation$SubtractPositives.positiveNumbersCanBeSubtracted  Time elapsed: 0.001 s

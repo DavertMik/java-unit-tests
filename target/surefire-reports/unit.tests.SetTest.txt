@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.SetTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 s - in unit.tests.SetTest
+unit.tests.SetTest.containsTrue  Time elapsed: 0.001 s
+unit.tests.SetTest.containsFalse  Time elapsed: 0.001 s
+unit.tests.SetTest.clearEmptyTrueTest  Time elapsed: 0.001 s
+unit.tests.SetTest.addElementsAfterClearIsEmptyFalseTest  Time elapsed: 0 s
+unit.tests.SetTest.isEmptyFalseTest  Time elapsed: 0 s
+unit.tests.SetTest.emptySetSizeGreaterThanZeroTest  Time elapsed: 0.001 s
+unit.tests.SetTest.containsWithSizeExceededTest  Time elapsed: 0.001 s
+unit.tests.SetTest.addElementsAfterClearSizeIsGreaterThanZeroTest  Time elapsed: 0.001 s
+unit.tests.SetTest.emptySetSizeZeroTest  Time elapsed: 0 s
+unit.tests.SetTest.sizeExceededTest  Time elapsed: 0 s
+unit.tests.SetTest.containsAfterRemoveFalse  Time elapsed: 0 s
+unit.tests.SetTest.isEmptyTrueTest  Time elapsed: 0 s
+unit.tests.SetTest.clearSizeZeroTest  Time elapsed: 0 s
+unit.tests.SetTest.sizeWithRepeatedElementsTest  Time elapsed: 0 s

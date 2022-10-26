@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: unit.tests.SmellsTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.016 s - in unit.tests.SmellsTest
+unit.tests.SmellsTest.imAddingCoverage  Time elapsed: 0 s
+unit.tests.SmellsTest.printMe  Time elapsed: 0.004 s
+unit.tests.SmellsTest.logicInTest(double, double, String, double)[1]  Time elapsed: 0 s
+unit.tests.SmellsTest.logicInTest(double, double, String, double)[2]  Time elapsed: 0 s
+unit.tests.SmellsTest.logicInTest(double, double, String, double)[3]  Time elapsed: 0 s
+unit.tests.SmellsTest.logicInTest(double, double, String, double)[4]  Time elapsed: 0 s
+unit.tests.SmellsTest.testingFlow  Time elapsed: 0 s
+unit.tests.SmellsTest.manuallyHandling  Time elapsed: 0 s
+unit.tests.SmellsTest.multipleAssertionsWithoutMessage  Time elapsed: 0 s
+unit.tests.SmellsTest.imPausing  Time elapsed: 1.001 s
+unit.tests.SmellsTest.imExposingAPrivateMethodJustForTesting  Time elapsed: 0.001 s
+unit.tests.SmellsTest.imReimplementingTheLogicJustToTestIt  Time elapsed: 0 s
+unit.tests.SmellsTest.multipleAssertions  Time elapsed: 0.001 s
