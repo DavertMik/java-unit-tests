@@ -1,0 +1,8 @@
+target
+.vscode
+.classpath
+.settings/*
+.project
+target
+.jqwik-database
+time-report.txt
