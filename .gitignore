@@ -1,4 +1,3 @@
-target
 .vscode
 .classpath
 .settings/*
@@ -6,3 +5,4 @@ target
 target
 .jqwik-database
 time-report.txt
+node_modules
